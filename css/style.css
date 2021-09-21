@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+html{
+    height: 150%;
+    background-color: darkorchid;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 90px;
+
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px 12px;
+}
+
+h2,h3,h4,h5,h6,p{
+    margin-bottom: 20px;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    width: 500px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
